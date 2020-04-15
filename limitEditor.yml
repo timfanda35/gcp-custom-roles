@@ -1869,4 +1869,4 @@ includedPermissions:
 - vpcaccess.operations.list
 name: roles/limiteditor
 stage: GA
-title: LimitEditor
+title: Limit Editor
