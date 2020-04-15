@@ -1732,8 +1732,6 @@ includedPermissions:
 - remotebuildexecution.workerpools.update
 - resourcemanager.projects.get
 - resourcemanager.projects.getIamPolicy
-- resourcemanager.projects.list
-- resourcemanager.projects.move
 - resourcemanager.projects.update
 - run.configurations.get
 - run.configurations.list
@@ -1832,9 +1830,6 @@ includedPermissions:
 - servicedirectory.services.list
 - servicedirectory.services.resolve
 - servicedirectory.services.update
-- servicemanagement.consumerSettings.get
-- servicemanagement.consumerSettings.list
-- servicemanagement.consumerSettings.update
 - servicemanagement.services.bind
 - servicemanagement.services.check
 - servicemanagement.services.create
